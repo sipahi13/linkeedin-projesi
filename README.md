@@ -12,7 +12,5 @@ Proje, aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
 
 <h2> Ekran Görüntüsü </h2>
 
-Aşağıda projenin ekran görüntüsünü bulabilirsiniz:
 
-
-![](LinkeedinClone.gif)
+![](screen.gif)
